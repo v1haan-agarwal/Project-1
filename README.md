@@ -1,4 +1,4 @@
-# 🎵 Automatic Slicing Machine
+# ⚙️ Automatic Slicing Machine
 
 The goal of this project was to create a human-cenetered solution tailored to individuals with dexterity limitations, such as having reduced arm, wrist hand or finger mobility.
 
@@ -18,9 +18,9 @@ This device's cutting mechanism utilizes a four-bar linkage to create the desire
 
 ## 🖼️ Project Gallery
 
-### 🔧 PCB Preview  
-![PCB Preview](PCB_Design/PCB_preview.png)
+### 🔧 Drawings  
+![Drawing](slicer1.png)
 
 ### 📸 Final Project Photo  
-![Project Photo](Image_and_Video/IMG_6376.jpeg)
+![Project Photo](slicer2.png)
 
